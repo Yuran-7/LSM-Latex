@@ -1,0 +1,1862 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global/global}
+  \entry{DBLP:conf/fast/ChenRLMX21}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=CH}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Hao},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Ruan},
+         familyi={R\bibinitperiod},
+         given={Chaoyi},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Cheng},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MX}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Xiaosong},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=XY}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Yinlong},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=AMK}{%
+         family={Aguilera},
+         familyi={A\bibinitperiod},
+         given={Marcos\bibnamedelima K.},
+         giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=YG}{%
+         family={Yadgar},
+         familyi={Y\bibinitperiod},
+         given={Gala},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{USENIX} Association}%
+    }
+    \strng{namehash}{CH+1}
+    \strng{fullhash}{CHRCLCMXXY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{19th {USENIX} Conference on File and Storage
+  Technologies, {FAST} 2021, February 23-25, 2021}
+    \field{pages}{17\bibrangedash 32}
+    \field{title}{SpanDB: {A} Fast, Cost-Effective LSM-tree Based {KV} Store on
+  Hybrid Storage}
+    \verb{url}
+    \verb https://www.usenix.org/conference/fast21/presentation/chen-hao
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{DBLP:conf/sigmod/DayanAI17}{inproceedings}{}{}
+    \name{author}{3}{}{%
+      {{hash=DN}{%
+         family={Dayan},
+         familyi={D\bibinitperiod},
+         given={Niv},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Athanassoulis},
+         familyi={A\bibinitperiod},
+         given={Manos},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=IS}{%
+         family={Idreos},
+         familyi={I\bibinitperiod},
+         given={Stratos},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{5}{}{%
+      {{hash=SS}{%
+         family={Salihoglu},
+         familyi={S\bibinitperiod},
+         given={Semih},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Wenchao},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Chirkova},
+         familyi={C\bibinitperiod},
+         given={Rada},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Suciu},
+         familyi={S\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{ACM}}%
+    }
+    \strng{namehash}{DNAMIS1}
+    \strng{fullhash}{DNAMIS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{booktitle}{Proceedings of the 2017 {ACM} International Conference on
+  Management of Data, {SIGMOD} Conference 2017, Chicago, IL, USA, May 14-19,
+  2017}
+    \verb{doi}
+    \verb 10.1145/3035918.3064054
+    \endverb
+    \field{pages}{79\bibrangedash 94}
+    \field{title}{Monkey: Optimal Navigable Key-Value Store}
+    \verb{url}
+    \verb https://doi.org/10.1145/3035918.3064054
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{DBLP:conf/sigmod/DayanI18}{inproceedings}{}{}
+    \name{author}{2}{}{%
+      {{hash=DN}{%
+         family={Dayan},
+         familyi={D\bibinitperiod},
+         given={Niv},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=IS}{%
+         family={Idreos},
+         familyi={I\bibinitperiod},
+         given={Stratos},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=DG}{%
+         family={Das},
+         familyi={D\bibinitperiod},
+         given={Gautam},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=JCM}{%
+         family={Jermaine},
+         familyi={J\bibinitperiod},
+         given={Christopher\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BPA}{%
+         family={Bernstein},
+         familyi={B\bibinitperiod},
+         given={Philip\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{ACM}}%
+    }
+    \strng{namehash}{DNIS1}
+    \strng{fullhash}{DNIS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{booktitle}{Proceedings of the 2018 International Conference on
+  Management of Data, {SIGMOD} Conference 2018, Houston, TX, USA, June 10-15,
+  2018}
+    \verb{doi}
+    \verb 10.1145/3183713.3196927
+    \endverb
+    \field{pages}{505\bibrangedash 520}
+    \field{title}{Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based
+  Key-Value Stores via Adaptive Removal of Superfluous Merging}
+    \verb{url}
+    \verb https://doi.org/10.1145/3183713.3196927
+    \endverb
+    \field{year}{2018}
+  \endentry
+
+  \entry{DBLP:journals/taco/DingZLLXWZ24}{article}{}{}
+    \name{author}{7}{}{%
+      {{hash=DC}{%
+         family={Ding},
+         familyi={D\bibinitperiod},
+         given={Chen},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LK}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Sicen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=XY}{%
+         family={Xiong},
+         familyi={X\bibinitperiod},
+         given={Yiqin},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wan},
+         familyi={W\bibinitperiod},
+         given={Jiguang},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zhan},
+         familyi={Z\bibinitperiod},
+         given={Ling},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DC+1}
+    \strng{fullhash}{DCZJLKLSXYWJZL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.1145/3656584
+    \endverb
+    \field{number}{3}
+    \field{pages}{46:1\bibrangedash 46:22}
+    \field{title}{D\({}^{\mbox{2}}\)Comp: Efficient Offload of LSM-tree
+  Compaction with Data Processing Units on Disaggregated Storage}
+    \verb{url}
+    \verb https://doi.org/10.1145/3656584
+    \endverb
+    \field{volume}{21}
+    \field{journaltitle}{{ACM} Trans. Archit. Code Optim.}
+    \field{year}{2024}
+  \endentry
+
+  \entry{DBLP:conf/fast/DuanFLL0L25}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=DZ}{%
+         family={Duan},
+         familyi={D\bibinitperiod},
+         given={Zhuohui},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=FH}{%
+         family={Feng},
+         familyi={F\bibinitperiod},
+         given={Hao},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Haikun},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Liao},
+         familyi={L\bibinitperiod},
+         given={Xiaofei},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=JH}{%
+         family={Jin},
+         familyi={J\bibinitperiod},
+         given={Hai},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Bangyu},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=GHS}{%
+         family={Gunawi},
+         familyi={G\bibinitperiod},
+         given={Haryadi\bibnamedelima S.},
+         giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=TV}{%
+         family={Tarasov},
+         familyi={T\bibinitperiod},
+         given={Vasily},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{USENIX} Association}%
+    }
+    \strng{namehash}{DZ+1}
+    \strng{fullhash}{DZFHLHLXJHLB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{booktitle}{23rd {USENIX} Conference on File and Storage
+  Technologies, {FAST} 2025, Santa Clara, CA, February 25-27, 2025}
+    \field{pages}{321\bibrangedash 335}
+    \field{title}{AegonKV: {A} High Bandwidth, Low Tail Latency, and Low
+  Storage Cost KV-Separated {LSM} Store with SmartSSD-based {GC} Offloading}
+    \verb{url}
+    \verb https://www.usenix.org/conference/fast25/presentation/duan
+    \endverb
+    \field{year}{2025}
+  \endentry
+
+  \entry{DBLP:conf/sigmod/HuangG21}{inproceedings}{}{}
+    \name{author}{2}{}{%
+      {{hash=HH}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Haoyu},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Ghandeharizadeh},
+         familyi={G\bibinitperiod},
+         given={Shahram},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{4}{}{%
+      {{hash=LG}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Guoliang},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Zhanhuai},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=IS}{%
+         family={Idreos},
+         familyi={I\bibinitperiod},
+         given={Stratos},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Srivastava},
+         familyi={S\bibinitperiod},
+         given={Divesh},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{ACM}}%
+    }
+    \strng{namehash}{HHGS1}
+    \strng{fullhash}{HHGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{{SIGMOD} '21: International Conference on Management of
+  Data, Virtual Event, China, June 20-25, 2021}
+    \verb{doi}
+    \verb 10.1145/3448016.3457297
+    \endverb
+    \field{pages}{749\bibrangedash 763}
+    \field{title}{Nova-LSM: {A} Distributed, Component-based LSM-tree Key-value
+  Store}
+    \verb{url}
+    \verb https://doi.org/10.1145/3448016.3457297
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{DBLP:conf/usenix/ImBCAL20}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=IJ}{%
+         family={Im},
+         familyi={I\bibinitperiod},
+         given={Junsu},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bae},
+         familyi={B\bibinitperiod},
+         given={Jinwook},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Chung},
+         familyi={C\bibinitperiod},
+         given={Chanwoo},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=A}{%
+         family={Arvind},
+         familyi={A\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Sungjin},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=GA}{%
+         family={Gavrilovska},
+         familyi={G\bibinitperiod},
+         given={Ada},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZE}{%
+         family={Zadok},
+         familyi={Z\bibinitperiod},
+         given={Erez},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{USENIX} Association}%
+    }
+    \strng{namehash}{IJ+1}
+    \strng{fullhash}{IJBJCCALS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{booktitle}{Proceedings of the 2020 {USENIX} Annual Technical
+  Conference, {USENIX} {ATC} 2020, July 15-17, 2020}
+    \field{pages}{173\bibrangedash 187}
+    \field{title}{PinK: High-speed In-storage Key-value Store with Bounded
+  Tails}
+    \verb{url}
+    \verb https://www.usenix.org/conference/atc20/presentation/im
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{DBLP:conf/usenix/LiLLWXWTLC21}{inproceedings}{}{}
+    \name{author}{9}{}{%
+      {{hash=LY}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Yongkun},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Zhen},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=LPPC}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Patrick P.\bibnamedelima C.},
+         giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Jiayu},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=XY}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Yinlong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=TL}{%
+         family={Tang},
+         familyi={T\bibinitperiod},
+         given={Liu},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LQ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Qi},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=CQ}{%
+         family={Cui},
+         familyi={C\bibinitperiod},
+         given={Qiu},
+         giveni={Q\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=CI}{%
+         family={Calciu},
+         familyi={C\bibinitperiod},
+         given={Irina},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kuenning},
+         familyi={K\bibinitperiod},
+         given={Geoff},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{USENIX} Association}%
+    }
+    \strng{namehash}{LY+1}
+    \strng{fullhash}{LYLZLPPCWJXYWYTLLQCQ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{Proceedings of the 2021 {USENIX} Annual Technical
+  Conference, {USENIX} {ATC} 2021, July 14-16, 2021}
+    \field{pages}{673\bibrangedash 687}
+    \field{title}{Differentiated Key-Value Storage Management for Balanced
+  {I/O} Performance}
+    \verb{url}
+    \verb https://www.usenix.org/conference/atc21/presentation/li-yongkun
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{DBLP:journals/pacmmod/LiuWML24}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=LJ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Junfeng},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Fan},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Mo},
+         familyi={M\bibinitperiod},
+         given={Dingheng},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={Siqiang},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+1}
+    \strng{fullhash}{LJWFMDLS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1145/3654978
+    \endverb
+    \field{number}{3}
+    \field{pages}{175}
+    \field{title}{Structural Designs Meet Optimality: Exploring Optimized
+  LSM-tree Structures in a Colossal Configuration Space}
+    \verb{url}
+    \verb https://doi.org/10.1145/3654978
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{Proc. {ACM} Manag. Data}
+    \field{year}{2024}
+  \endentry
+
+  \entry{DBLP:conf/hpdc/LiuJWLCY23}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=LR}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Ruicheng},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=JP}{%
+         family={Jin},
+         familyi={J\bibinitperiod},
+         given={Peiquan},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Xiaoliang},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={Yongping},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CZ}{%
+         family={Chu},
+         familyi={C\bibinitperiod},
+         given={Zhaole},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yuan},
+         familyi={Y\bibinitperiod},
+         given={Yigui},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=BAR}{%
+         family={Butt},
+         familyi={B\bibinitperiod},
+         given={Ali\bibnamedelima Raza},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MN}{%
+         family={Mi},
+         familyi={M\bibinitperiod},
+         given={Ningfang},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Chard},
+         familyi={C\bibinitperiod},
+         given={Kyle},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{ACM}}%
+    }
+    \strng{namehash}{LR+1}
+    \strng{fullhash}{LRJPWXLYCZYY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{Proceedings of the 32nd International Symposium on
+  High-Performance Parallel and Distributed Computing, {HPDC} 2023, Orlando,
+  FL, USA, June 16-23, 2023}
+    \verb{doi}
+    \verb 10.1145/3588195.3592982
+    \endverb
+    \field{pages}{143\bibrangedash 154}
+    \field{title}{Closing the Performance Gap between Leveling and Tiering
+  Compaction via Bundle Compaction}
+    \verb{url}
+    \verb https://doi.org/10.1145/3588195.3592982
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{DBLP:journals/tpds/LuZWFZD22}{article}{}{}
+    \name{author}{6}{}{%
+      {{hash=LK}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=ZN}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Nannan},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wan},
+         familyi={W\bibinitperiod},
+         given={Jiguang},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FC}{%
+         family={Fei},
+         familyi={F\bibinitperiod},
+         given={Changhong},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Deng},
+         familyi={D\bibinitperiod},
+         given={Tongliang},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LK+1}
+    \strng{fullhash}{LKZNWJFCZWDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1109/TPDS.2021.3118599
+    \endverb
+    \field{number}{8}
+    \field{pages}{1953\bibrangedash 1966}
+    \field{title}{TridentKV: {A} Read-Optimized LSM-Tree Based {KV} Store via
+  Adaptive Indexing and Space-Efficient Partitioning}
+    \verb{url}
+    \verb https://doi.org/10.1109/TPDS.2021.3118599
+    \endverb
+    \field{volume}{33}
+    \field{journaltitle}{{IEEE} Trans. Parallel Distributed Syst.}
+    \field{year}{2022}
+  \endentry
+
+  \entry{DBLP:conf/fast/LuPAA16}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=LL}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Lanyue},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=PTS}{%
+         family={Pillai},
+         familyi={P\bibinitperiod},
+         given={Thanumalayan\bibnamedelima Sankaranarayana},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=AAC}{%
+         family={Arpaci{-}Dusseau},
+         familyi={A\bibinitperiod},
+         given={Andrea\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=ARH}{%
+         family={Arpaci{-}Dusseau},
+         familyi={A\bibinitperiod},
+         given={Remzi\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=BAD}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Angela\bibnamedelima Demke},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=PFI}{%
+         family={Popovici},
+         familyi={P\bibinitperiod},
+         given={Florentina\bibnamedelima I.},
+         giveni={F\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{USENIX} Association}%
+    }
+    \strng{namehash}{LL+1}
+    \strng{fullhash}{LLPTSAACARH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{14th {USENIX} Conference on File and Storage
+  Technologies, {FAST} 2016, Santa Clara, CA, USA, February 22-25, 2016}
+    \field{pages}{133\bibrangedash 148}
+    \field{title}{WiscKey: Separating Keys from Values in SSD-conscious
+  Storage}
+    \verb{url}
+    \verb https://www.usenix.org/conference/fast16/technical-sessions/presentat
+    \verb ion/lu
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{DBLP:journals/pacmmod/MoLWL25}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=MD}{%
+         family={Mo},
+         familyi={M\bibinitperiod},
+         given={Dingheng},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Junfeng},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Fan},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={Siqiang},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MD+1}
+    \strng{fullhash}{MDLJWFLS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.1145/3709662
+    \endverb
+    \field{number}{1}
+    \field{pages}{12:1\bibrangedash 12:26}
+    \field{title}{Aster: Enhancing LSM-structures for Scalable Graph Database}
+    \verb{url}
+    \verb https://doi.org/10.1145/3709662
+    \endverb
+    \field{volume}{3}
+    \field{journaltitle}{Proc. {ACM} Manag. Data}
+    \field{year}{2025}
+  \endentry
+
+  \entry{DBLP:journals/pacmmod/MoCLS23}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=MD}{%
+         family={Mo},
+         familyi={M\bibinitperiod},
+         given={Dingheng},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CF}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Fanchao},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={Siqiang},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Shan},
+         familyi={S\bibinitperiod},
+         given={Caihua},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MD+1}
+    \strng{fullhash}{MDCFLSSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.1145/3617333
+    \endverb
+    \field{number}{3}
+    \field{pages}{213:1\bibrangedash 213:25}
+    \field{title}{Learning to Optimize LSM-trees: Towards {A} Reinforcement
+  Learning based Key-Value Store for Dynamic Workloads}
+    \verb{url}
+    \verb https://doi.org/10.1145/3617333
+    \endverb
+    \field{volume}{1}
+    \field{journaltitle}{Proc. {ACM} Manag. Data}
+    \field{year}{2023}
+  \endentry
+
+  \entry{DBLP:conf/sosp/RajuKCA17}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=RP}{%
+         family={Raju},
+         familyi={R\bibinitperiod},
+         given={Pandian},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kadekodi},
+         familyi={K\bibinitperiod},
+         given={Rohan},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CV}{%
+         family={Chidambaram},
+         familyi={C\bibinitperiod},
+         given={Vijay},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Abraham},
+         familyi={A\bibinitperiod},
+         given={Ittai},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{ACM}}%
+    }
+    \strng{namehash}{RP+1}
+    \strng{fullhash}{RPKRCVAI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{booktitle}{Proceedings of the 26th Symposium on Operating Systems
+  Principles, Shanghai, China, October 28-31, 2017}
+    \verb{doi}
+    \verb 10.1145/3132747.3132765
+    \endverb
+    \field{pages}{497\bibrangedash 514}
+    \field{title}{PebblesDB: Building Key-Value Stores using Fragmented
+  Log-Structured Merge Trees}
+    \verb{url}
+    \verb https://doi.org/10.1145/3132747.3132765
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{DBLP:conf/fast/RenR0HLL24}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=RY}{%
+         family={Ren},
+         familyi={R\bibinitperiod},
+         given={Yanjing},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=RY}{%
+         family={Ren},
+         familyi={R\bibinitperiod},
+         given={Yuanming},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Xiaolu},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Yuchong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Jingwei},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LPPC}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Patrick P.\bibnamedelima C.},
+         giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=MX}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Xiaosong},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Won},
+         familyi={W\bibinitperiod},
+         given={Youjip},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{USENIX} Association}%
+    }
+    \strng{namehash}{RY+1}
+    \strng{fullhash}{RYRYLXHYLJLPPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{booktitle}{22nd {USENIX} Conference on File and Storage
+  Technologies, {FAST} 2024, Santa Clara, CA, USA, February 27-29, 2024}
+    \field{pages}{293\bibrangedash 310}
+    \field{title}{{ELECT:} Enabling Erasure Coding Tiering for LSM-tree-based
+  Storage}
+    \verb{url}
+    \verb https://www.usenix.org/conference/fast24/presentation/ren
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{DBLP:conf/sigmod/SarkarCZA22}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=SS}{%
+         family={Sarkar},
+         familyi={S\bibinitperiod},
+         given={Subhadeep},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Kaijie},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=ZZ}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Zichen},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Athanassoulis},
+         familyi={A\bibinitperiod},
+         given={Manos},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{3}{}{%
+      {{hash=IZG}{%
+         family={Ives},
+         familyi={I\bibinitperiod},
+         given={Zachary\bibnamedelima G.},
+         giveni={Z\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bonifati},
+         familyi={B\bibinitperiod},
+         given={Angela},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AAE}{%
+         family={Abbadi},
+         familyi={A\bibinitperiod},
+         given={Amr\bibnamedelima El},
+         giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{ACM}}%
+    }
+    \strng{namehash}{SS+1}
+    \strng{fullhash}{SSCKZZAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{{SIGMOD} '22: International Conference on Management of
+  Data, Philadelphia, PA, USA, June 12 - 17, 2022}
+    \verb{doi}
+    \verb 10.1145/3514221.3520169
+    \endverb
+    \field{pages}{2429\bibrangedash 2432}
+    \field{title}{Compactionary: {A} Dictionary for {LSM} Compactions}
+    \verb{url}
+    \verb https://doi.org/10.1145/3514221.3520169
+    \endverb
+    \field{year}{2022}
+  \endentry
+
+  \entry{DBLP:journals/pvldb/SarkarSZA21}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=SS}{%
+         family={Sarkar},
+         familyi={S\bibinitperiod},
+         given={Subhadeep},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Staratzis},
+         familyi={S\bibinitperiod},
+         given={Dimitris},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ZZ}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Zichen},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Athanassoulis},
+         familyi={A\bibinitperiod},
+         given={Manos},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SS+1}
+    \strng{fullhash}{SSSDZZAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.14778/3476249.3476274
+    \endverb
+    \field{number}{11}
+    \field{pages}{2216\bibrangedash 2229}
+    \field{title}{Constructing and Analyzing the {LSM} Compaction Design Space}
+    \verb{url}
+    \verb http://www.vldb.org/pvldb/vol14/p2216-sarkar.pdf
+    \endverb
+    \field{volume}{14}
+    \field{journaltitle}{Proc. {VLDB} Endow.}
+    \field{year}{2021}
+  \endentry
+
+  \entry{DBLP:conf/sigmod/SarkarPSA20}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=SS}{%
+         family={Sarkar},
+         familyi={S\bibinitperiod},
+         given={Subhadeep},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PTI}{%
+         family={Papon},
+         familyi={P\bibinitperiod},
+         given={Tarikul\bibnamedelima Islam},
+         giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Staratzis},
+         familyi={S\bibinitperiod},
+         given={Dimitris},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Athanassoulis},
+         familyi={A\bibinitperiod},
+         given={Manos},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{6}{}{%
+      {{hash=MD}{%
+         family={Maier},
+         familyi={M\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Pottinger},
+         familyi={P\bibinitperiod},
+         given={Rachel},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Doan},
+         familyi={D\bibinitperiod},
+         given={AnHai},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TW}{%
+         family={Tan},
+         familyi={T\bibinitperiod},
+         given={Wang{-}Chiew},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Alawini},
+         familyi={A\bibinitperiod},
+         given={Abdussalam},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NHQ}{%
+         family={Ngo},
+         familyi={N\bibinitperiod},
+         given={Hung\bibnamedelima Q.},
+         giveni={H\bibinitperiod\bibinitdelim Q\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{ACM}}%
+    }
+    \strng{namehash}{SS+1}
+    \strng{fullhash}{SSPTISDAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Proceedings of the 2020 International Conference on
+  Management of Data, {SIGMOD} Conference 2020, online conference [Portland,
+  OR, USA], June 14-19, 2020}
+    \verb{doi}
+    \verb 10.1145/3318464.3389757
+    \endverb
+    \field{pages}{893\bibrangedash 908}
+    \field{title}{Lethe: {A} Tunable Delete-Aware {LSM} Engine}
+    \verb{url}
+    \verb https://doi.org/10.1145/3318464.3389757
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{DBLP:conf/sigmod/SearsR12}{inproceedings}{}{}
+    \name{author}{2}{}{%
+      {{hash=SR}{%
+         family={Sears},
+         familyi={S\bibinitperiod},
+         given={Russell},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Ramakrishnan},
+         familyi={R\bibinitperiod},
+         given={Raghu},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \name{editor}{5}{}{%
+      {{hash=CKS}{%
+         family={Candan},
+         familyi={C\bibinitperiod},
+         given={K.\bibnamedelima Sel{\c{c}}uk},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Yi},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SRT}{%
+         family={Snodgrass},
+         familyi={S\bibinitperiod},
+         given={Richard\bibnamedelima T.},
+         giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=GL}{%
+         family={Gravano},
+         familyi={G\bibinitperiod},
+         given={Luis},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Fuxman},
+         familyi={F\bibinitperiod},
+         given={Ariel},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{ACM}}%
+    }
+    \strng{namehash}{SRRR1}
+    \strng{fullhash}{SRRR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Proceedings of the {ACM} {SIGMOD} International
+  Conference on Management of Data, {SIGMOD} 2012, Scottsdale, AZ, USA, May
+  20-24, 2012}
+    \verb{doi}
+    \verb 10.1145/2213836.2213862
+    \endverb
+    \field{pages}{217\bibrangedash 228}
+    \field{title}{bLSM: a general purpose log structured merge tree}
+    \verb{url}
+    \verb https://doi.org/10.1145/2213836.2213862
+    \endverb
+    \field{year}{2012}
+  \endentry
+
+  \entry{DBLP:journals/pacmmod/WangGYZ24}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=WH}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Hengrui},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=GT}{%
+         family={Guo},
+         familyi={G\bibinitperiod},
+         given={Te},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Junzhao},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Huanchen},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WH+1}
+    \strng{fullhash}{WHGTYJZH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.1145/3654944
+    \endverb
+    \field{number}{3}
+    \field{pages}{141}
+    \field{title}{{GRF:} {A} Global Range Filter for LSM-Trees with Shape
+  Encoding}
+    \verb{url}
+    \verb https://doi.org/10.1145/3654944
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{Proc. {ACM} Manag. Data}
+    \field{year}{2024}
+  \endentry
+
+  \entry{DBLP:conf/cluster/XuZWLCZALTX21}{inproceedings}{}{}
+    \name{author}{10}{}{%
+      {{hash=XP}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Peng},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ZN}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Nannan},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wan},
+         familyi={W\bibinitperiod},
+         given={Jiguang},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LW}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Shuning},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Yuanhui},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=AH}{%
+         family={Albahar},
+         familyi={A\bibinitperiod},
+         given={Hadeel},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Hanyang},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=TL}{%
+         family={Tang},
+         familyi={T\bibinitperiod},
+         given={Liu},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=XC}{%
+         family={Xie},
+         familyi={X\bibinitperiod},
+         given={Changsheng},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{IEEE}}%
+    }
+    \strng{namehash}{XP+1}
+    \strng{fullhash}{XPZNWJLWCSZYAHLHTLXC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{X}
+    \field{sortinithash}{X}
+    \field{booktitle}{{IEEE} International Conference on Cluster Computing,
+  {CLUSTER} 2021, Portland, OR, USA, September 7-10, 2021}
+    \verb{doi}
+    \verb 10.1109/CLUSTER48925.2021.00032
+    \endverb
+    \field{pages}{125\bibrangedash 134}
+    \field{title}{Building {A} Fast and Efficient LSM-tree Store by Integrating
+  Local Storage with Cloud Storage}
+    \verb{url}
+    \verb https://doi.org/10.1109/Cluster48925.2021.00032
+    \endverb
+    \field{year}{2021}
+  \endentry
+
+  \entry{DBLP:journals/pacmmod/YuGZTW024}{article}{}{}
+    \name{author}{6}{}{%
+      {{hash=YQ}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Qiaolin},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Guo},
+         familyi={G\bibinitperiod},
+         given={Chang},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhuang},
+         familyi={Z\bibinitperiod},
+         given={Jay},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TV}{%
+         family={Thakkar},
+         familyi={T\bibinitperiod},
+         given={Viraj},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Jianguo},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CZ}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Zhichao},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YQ+1}
+    \strng{fullhash}{YQGCZJTVWJCZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \verb{doi}
+    \verb 10.1145/3654927
+    \endverb
+    \field{number}{3}
+    \field{pages}{124}
+    \field{title}{CaaS-LSM: Compaction-as-a-Service for LSM-based Key-Value
+  Stores in Storage Disaggregated Infrastructure}
+    \verb{url}
+    \verb https://doi.org/10.1145/3654927
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{Proc. {ACM} Manag. Data}
+    \field{year}{2024}
+  \endentry
+
+  \entry{DBLP:journals/pacmmod/YuLYC24}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=YW}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Weiping},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={Siqiang},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=YZ}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Zihao},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Cong},
+         familyi={C\bibinitperiod},
+         given={Gao},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YW+1}
+    \strng{fullhash}{YWLSYZCG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \verb{doi}
+    \verb 10.1145/3677138
+    \endverb
+    \field{number}{4}
+    \field{pages}{202:1\bibrangedash 202:26}
+    \field{title}{{CAMAL:} Optimizing LSM-trees via Active Learning}
+    \verb{url}
+    \verb https://doi.org/10.1145/3677138
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{Proc. {ACM} Manag. Data}
+    \field{year}{2024}
+  \endentry
+
+  \entry{DBLP:conf/fast/ZhangWCXYHZH0CH20}{inproceedings}{}{}
+    \name{author}{12}{}{%
+      {{hash=ZT}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Teng},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Jianying},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CX}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Xuntao},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=XH}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Hao},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=YN}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Nanlong},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Gui},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=ZT}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Tieying},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Dengcheng},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Feifei},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=HZ}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Zhongdong},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Jianling},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=NSH}{%
+         family={Noh},
+         familyi={N\bibinitperiod},
+         given={Sam\bibnamedelima H.},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=WB}{%
+         family={Welch},
+         familyi={W\bibinitperiod},
+         given={Brent},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{USENIX} Association}%
+    }
+    \strng{namehash}{ZT+1}
+    \strng{fullhash}{ZTWJCXXHYNHGZTHDLFCWHZSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{booktitle}{18th {USENIX} Conference on File and Storage
+  Technologies, {FAST} 2020, Santa Clara, CA, USA, February 24-27, 2020}
+    \field{pages}{225\bibrangedash 237}
+    \field{title}{FPGA-Accelerated Compactions for LSM-based Key-Value Store}
+    \verb{url}
+    \verb https://www.usenix.org/conference/fast20/presentation/zhang-teng
+    \endverb
+    \field{year}{2020}
+  \endentry
+
+  \entry{DBLP:journals/pacmmod/ZhongCWE25}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=ZW}{%
+         family={Zhong},
+         familyi={Z\bibinitperiod},
+         given={Wenshao},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Chen},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Xingbo},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Eriksson},
+         familyi={E\bibinitperiod},
+         given={Jakob},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZW+1}
+    \strng{fullhash}{ZWCCWXEJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \verb{doi}
+    \verb 10.1145/3709683
+    \endverb
+    \field{number}{1}
+    \field{pages}{33:1\bibrangedash 33:27}
+    \field{title}{Disco: {A} Compact Index for LSM-trees}
+    \verb{url}
+    \verb https://doi.org/10.1145/3709683
+    \endverb
+    \field{volume}{3}
+    \field{journaltitle}{Proc. {ACM} Manag. Data}
+    \field{year}{2025}
+  \endentry
+
+  \entry{zhou2024gpu}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=ZH}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Hao},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Yuanhui},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Cui},
+         familyi={C\bibinitperiod},
+         given={Lixiao},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WG}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Gang},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Xiaoguang},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZH+1}
+    \strng{fullhash}{ZHCYCLWGLX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{booktitle}{The 38th International Conference on Massive Storage
+  Systems and Technology}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{A gpu-accelerated compaction strategy for lsm-based key-value
+  store system}
+    \field{year}{2024}
+  \endentry
+
+  \entry{DBLP:conf/usenix/ZhouZCXWWLZW23}{inproceedings}{}{}
+    \name{author}{9}{}{%
+      {{hash=ZY}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Yuanhui},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Shuning},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=XP}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Peng},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Peng},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Yanguang},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Xian},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=ZL}{%
+         family={Zhan},
+         familyi={Z\bibinitperiod},
+         given={Ling},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wan},
+         familyi={W\bibinitperiod},
+         given={Jiguang},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=LJ}{%
+         family={Lawall},
+         familyi={L\bibinitperiod},
+         given={Julia},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WD}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{USENIX} Association}%
+    }
+    \strng{namehash}{ZY+1}
+    \strng{fullhash}{ZYZJCSXPWPWYLXZLWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{booktitle}{Proceedings of the 2023 {USENIX} Annual Technical
+  Conference, {USENIX} {ATC} 2023, Boston, MA, USA, July 10-12, 2023}
+    \field{pages}{451\bibrangedash 465}
+    \field{title}{Calcspar: {A} Contract-Aware {LSM} Store for Cloud Storage
+  with Low Latency Spikes}
+    \verb{url}
+    \verb https://www.usenix.org/conference/atc23/presentation/zhou
+    \endverb
+    \field{year}{2023}
+  \endentry
+\enddatalist
+\endinput

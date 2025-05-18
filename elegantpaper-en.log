@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.14)  18 MAY 2025 10:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.14)  18 MAY 2025 02:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./elegantpaper-cn.tex
-(elegantpaper-cn.tex
+**./elegantpaper-en.tex
+(elegantpaper-en.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (elegantpaper.cls
@@ -22,18 +22,18 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count192
+\etb@tempcnta=\count196
 ) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count193
-\calc@Bcount=\count194
+\calc@Acount=\count197
+\calc@Bcount=\count198
 \calc@Adimen=\dimen141
 \calc@Bdimen=\dimen142
 \calc@Askip=\skip49
 \calc@Bskip=\skip50
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count195
+\calc@Ccount=\count199
 \calc@Cskip=\skip51
 )
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -41,14 +41,14 @@ Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count196
-\c@section=\count197
-\c@subsection=\count198
-\c@subsubsection=\count199
-\c@paragraph=\count266
-\c@subparagraph=\count267
-\c@figure=\count268
-\c@table=\count269
+\c@part=\count266
+\c@section=\count267
+\c@subsection=\count268
+\c@subsubsection=\count269
+\c@paragraph=\count270
+\c@subparagraph=\count271
+\c@figure=\count272
+\c@table=\count273
 \abovecaptionskip=\skip52
 \belowcaptionskip=\skip53
 \bibindent=\dimen143
@@ -78,7 +78,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode not found.
+Package pdftexcmds Info: \pdfdraftmode found.
 )) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 ) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
@@ -91,7 +91,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 estring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count270
+\c@section@level=\count274
 )
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.st
 y
@@ -99,18 +99,22 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \@linkdim=\dimen144
-\Hy@linkcounter=\count271
-\Hy@pagecounter=\count272
+\Hy@linkcounter=\count275
+\Hy@pagecounter=\count276
  (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count273
+\Hy@SavedSpaceFactor=\count277
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Hyper figures OFF on input line 4157.
 Package hyperref Info: Link nesting OFF on input line 4162.
@@ -119,7 +123,7 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count274
+\c@Hy@tempcnt=\count278
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
@@ -136,7 +140,7 @@ sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count275
+\Fld@menulength=\count279
 \Field@Width=\dimen146
 \Fld@charsize=\dimen147
 Package hyperref Info: Hyper figures OFF on input line 6042.
@@ -151,29 +155,27 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count276
-\c@Item=\count277
-\c@Hfootnote=\count278
+\Hy@abspage=\count280
+\c@Item=\count281
+\c@Hfootnote=\count282
 )
-Package hyperref Info: Driver (autodetected): hxetex.
+Package hyperref Info: Driver (autodetected): hpdftex.
 
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
-File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
-\pdfm@box=\box52
-\c@Hy@AnnotLevel=\count279
-\HyField@AnnotCount=\count280
-\Fld@listcount=\count281
-\c@bookmark@seq@number=\count282
-
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
-check.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
+\Fld@listcount=\count283
+\c@bookmark@seq@number=\count284
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
 unter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
@@ -191,9 +193,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count283
-\Gm@cntv=\count284
-\c@Gm@tempcnt=\count285
+\Gm@cnth=\count285
+\Gm@cntv=\count286
+\c@Gm@tempcnt=\count287
 \Gm@bindingoffset=\dimen148
 \Gm@wd@mp=\dimen149
 \Gm@odd@mp=\dimen150
@@ -237,19 +239,19 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count286
+\inf@bad=\count288
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count287
-\leftroot@=\count288
+\uproot@=\count289
+\leftroot@=\count290
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count289
-\DOTSCASE@=\count290
+\classnum@=\count291
+\DOTSCASE@=\count292
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
-\Mathstrutbox@=\box53
-\strutbox@=\box54
+\Mathstrutbox@=\box52
+\strutbox@=\box53
 LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
@@ -257,20 +259,20 @@ LaTeX Info: Redefining \Bigg on input line 724.
 \big@size=\dimen158
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count291
+\macc@depth=\count293
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count292
+\c@MaxMatrixCols=\count294
 \dotsspace@=\muskip18
-\c@parentequation=\count293
-\dspbrk@lvl=\count294
+\c@parentequation=\count295
+\dspbrk@lvl=\count296
 \tag@help=\toks26
-\row@=\count295
-\column@=\count296
-\maxfields@=\count297
+\row@=\count297
+\column@=\count298
+\maxfields@=\count299
 \andhelp@=\toks27
 \eqnshift@=\dimen159
 \alignsep@=\dimen160
@@ -311,38 +313,39 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen172
 \cmidrulekern=\dimen173
 \defaultaddspace=\dimen174
-\@cmidla=\count298
-\@cmidlb=\count299
+\@cmidla=\count300
+\@cmidlb=\count301
 \@aboverulesep=\dimen175
 \@belowrulesep=\dimen176
-\@thisruleclass=\count300
-\@lastruleclass=\count301
+\@thisruleclass=\count302
+\@lastruleclass=\count303
 \@thisrulewidth=\dimen177
 )
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
-\c@tracingmulticols=\count302
-\mult@box=\box55
+\c@tracingmulticols=\count304
+\mult@box=\box54
 \multicol@leftmargin=\dimen178
-\c@unbalance=\count303
-\c@collectmore=\count304
-\doublecol@number=\count305
-\multicoltolerance=\count306
-\multicolpretolerance=\count307
+\c@unbalance=\count305
+\c@collectmore=\count306
+\doublecol@number=\count307
+\multicoltolerance=\count308
+\multicolpretolerance=\count309
 \full@width=\dimen179
 \page@free=\dimen180
 \premulticols=\dimen181
 \postmulticols=\dimen182
 \multicolsep=\skip61
 \multicolbaselineskip=\skip62
-\partial@page=\box56
-\last@line=\box57
-\mc@boxedresult=\box58
+\partial@page=\box55
+\last@line=\box56
+\mc@boxedresult=\box57
 \maxbalancingoverflow=\dimen183
-\mult@rightbox=\box59
-\mult@grightbox=\box60
-\mult@firstbox=\box61
-\mult@gfirstbox=\box62
+\mult@rightbox=\box58
+\mult@grightbox=\box59
+\mult@firstbox=\box60
+\mult@gfirstbox=\box61
+\@tempa=\box62
 \@tempa=\box63
 \@tempa=\box64
 \@tempa=\box65
@@ -378,21 +381,20 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \@tempa=\box95
 \@tempa=\box96
 \@tempa=\box97
-\@tempa=\box98
-\c@minrows=\count308
-\c@columnbadness=\count309
-\c@finalcolumnbadness=\count310
+\c@minrows=\count310
+\c@columnbadness=\count311
+\c@finalcolumnbadness=\count312
 \last@try=\dimen184
 \multicolovershoot=\dimen185
 \multicolundershoot=\dimen186
-\mult@nat@firstbox=\box99
-\colbreak@box=\box100
-\mc@col@check@num=\count311
+\mult@nat@firstbox=\box98
+\colbreak@box=\box99
+\mc@col@check@num=\count313
 )
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip63
-\multirow@cntb=\count312
+\multirow@cntb=\count314
 \multirow@dima=\skip64
 \bigstrutjot=\dimen187
 )
@@ -402,13 +404,14 @@ Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 274.
+Package xcolor Info: Driver file: pdftex.def on input line 274.
 
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
-File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
 )
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
@@ -429,18 +432,18 @@ Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 g
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 106.
+Package graphics Info: Driver file: pdftex.def on input line 106.
 )
 \Gin@req@height=\dimen188
 \Gin@req@width=\dimen189
 )
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
 Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
-\FV@CodeLineNo=\count313
+\FV@CodeLineNo=\count315
 \FV@InFile=\read2
-\FV@TabBox=\box101
-\c@FancyVerbLine=\count314
-\FV@StepNumber=\count315
+\FV@TabBox=\box100
+\c@FancyVerbLine=\count316
+\FV@StepNumber=\count317
 \FV@OutFile=\write3
 )
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/abstract\abstract.sty
@@ -469,8 +472,8 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@hangindent=\dimen197
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count316
-\c@continuedfloat=\count317
+\c@caption@flags=\count318
+\c@continuedfloat=\count319
 Package caption Info: hyperref package is loaded.
 )
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
@@ -478,247 +481,164 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip70
 \enit@outerparindent=\dimen198
 \enit@toks=\toks30
-\enit@inbox=\box102
-\enit@count@id=\count318
-\enitdp@description=\count319
+\enit@inbox=\box101
+\enit@count@id=\count320
+\enitdp@description=\count321
 )
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
-.sty (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
+Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex su
+pport for TeXGyreTermesX
+
+`newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes a
+nd its extensions (msharpe)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-01-18 L3 programming layer (loader) 
 
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xete
-x.def
-File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
-\g__graphics_track_int=\count320
-\l__pdf_internal_box=\box103
-\g__pdf_backend_annotation_int=\count321
-\g__pdf_backend_link_int=\count322
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count322
+\l__pdf_internal_box=\box102
 ))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty
 Package: xparse 2024-08-16 L3 Experimental document command parser
-)
-Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
-
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.
-sty
-Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count323
-\l__fontspec_language_int=\count324
-\l__fontspec_strnum_int=\count325
-\l__fontspec_tmp_int=\count326
-\l__fontspec_tmpa_int=\count327
-\l__fontspec_tmpb_int=\count328
-\l__fontspec_tmpc_int=\count329
-\l__fontspec_em_int=\count330
-\l__fontspec_emdef_int=\count331
-\l__fontspec_strong_int=\count332
-\l__fontspec_strongdef_int=\count333
-\l__fontspec_tmpa_dim=\dimen199
-\l__fontspec_tmpb_dim=\dimen256
-\l__fontspec_tmpc_dim=\dimen257
- (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 119.
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctex.sty
-Package: ctex 2022/07/14 v2.5.10 Chinese adapter in LaTeX (CTEX)
-
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexhook.sty
-Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
-)
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexpatch.sty
-Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
-)
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
-Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
-
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
-File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-\l__ctex_tmp_int=\count334
-\l__ctex_tmp_box=\box104
-\l__ctex_tmp_dim=\dimen258
-\g__ctex_section_depth_int=\count335
-\g__ctex_font_size_int=\count336
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctexopts.cfg
-File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
 )
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/ctex/engine\ctex-engine-
-xetex.def
-File: ctex-engine-xetex.def 2022/07/14 v2.5.10 XeLaTeX adapter (CTEX)
-
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.sty
-Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
-
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xte
-mplate.sty
-Package: xtemplate 2024-08-16 L3 Experimental prototype document functions
+\XKV@depth=\count323
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 )
-\l__xeCJK_tmp_int=\count337
-\l__xeCJK_tmp_box=\box105
-\l__xeCJK_tmp_dim=\dimen259
-\l__xeCJK_tmp_skip=\skip71
-\g__xeCJK_space_factor_int=\count338
-\l__xeCJK_begin_int=\count339
-\l__xeCJK_end_int=\count340
-\c__xeCJK_CJK_class_int=\XeTeXcharclass1
-\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
-\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
-\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
-\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
-\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
-\c__xeCJK_CM_class_int=\XeTeXcharclass7
-\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
-\l__xeCJK_last_skip=\skip72
-\c__xeCJK_none_node=\count341
-\g__xeCJK_node_int=\count342
-\c__xeCJK_CJK_node_dim=\dimen260
-\c__xeCJK_CJK-space_node_dim=\dimen261
-\c__xeCJK_default_node_dim=\dimen262
-\c__xeCJK_CJK-widow_node_dim=\dimen263
-\c__xeCJK_normalspace_node_dim=\dimen264
-\c__xeCJK_default-space_node_skip=\skip73
-\l__xeCJK_ccglue_skip=\skip74
-\l__xeCJK_ecglue_skip=\skip75
-\l__xeCJK_punct_kern_skip=\skip76
-\l__xeCJK_indent_box=\box106
-\l__xeCJK_last_penalty_int=\count343
-\l__xeCJK_last_bound_dim=\dimen265
-\l__xeCJK_last_kern_dim=\dimen266
-\l__xeCJK_widow_penalty_int=\count344
-
-LaTeX template Info: Declaring template type 'xeCJK/punctuation' taking 0
-(template)           argument(s) on line 2396.
-
-\l__xeCJK_fixed_punct_width_dim=\dimen267
-\l__xeCJK_mixed_punct_width_dim=\dimen268
-\l__xeCJK_middle_punct_width_dim=\dimen269
-\l__xeCJK_fixed_margin_width_dim=\dimen270
-\l__xeCJK_mixed_margin_width_dim=\dimen271
-\l__xeCJK_middle_margin_width_dim=\dimen272
-\l__xeCJK_bound_punct_width_dim=\dimen273
-\l__xeCJK_bound_margin_width_dim=\dimen274
-\l__xeCJK_margin_minimum_dim=\dimen275
-\l__xeCJK_kerning_total_width_dim=\dimen276
-\l__xeCJK_same_align_margin_dim=\dimen277
-\l__xeCJK_different_align_margin_dim=\dimen278
-\l__xeCJK_kerning_margin_width_dim=\dimen279
-\l__xeCJK_kerning_margin_minimum_dim=\dimen280
-\l__xeCJK_bound_dim=\dimen281
-\l__xeCJK_reverse_bound_dim=\dimen282
-\l__xeCJK_margin_dim=\dimen283
-\l__xeCJK_minimum_bound_dim=\dimen284
-\l__xeCJK_kerning_margin_dim=\dimen285
-\g__xeCJK_family_int=\count345
-\l__xeCJK_fam_int=\count346
-\g__xeCJK_fam_allocation_int=\count347
-\l__xeCJK_verb_case_int=\count348
-\l__xeCJK_verb_exspace_skip=\skip77
-
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK.cfg
-File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
-))
-\ccwd=\dimen286
-\l__ctex_ccglue_skip=\skip78
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count324
+\xs_countb=\count325
 )
-\l__ctex_ziju_dim=\dimen287
-
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber.sty
-Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
-\l__zhnum_scale_int=\count349
-\l__zhnum_tmp_int=\count350
-
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/zhnumber\zhnumber-utf8.c
-fg
-File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
-))
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/ctex/scheme\ctex-scheme-
-plain.def
-File: ctex-scheme-plain.def 2022/07/14 v2.5.10 Plain scheme for generic (CTEX)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/ctex/fontset\ctex-fontse
-t-windows.def
-File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTE
-X)
-))
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/ctex/config\ctex.cfg
-File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\ntx@tmpcnta=\count326
+\ntx@cnt=\count327
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+\tx@sixem=\dimen199
+\tx@y=\dimen256
+\tx@x=\dimen257
+\tx@tmpdima=\dimen258
+\tx@tmpdimb=\dimen259
+\tx@tmpdimc=\dimen260
+\tx@tmpdimd=\dimen261
+\tx@tmpdime=\dimen262
+\tx@tmpdimf=\dimen263
+\tx@dimA=\dimen264
+\tx@dimAA=\dimen265
+\tx@dimB=\dimen266
+\tx@dimBB=\dimen267
+\tx@dimC=\dimen268
+LaTeX Info: Redefining \oldstylenums on input line 902.
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count351
+\lrq@indent=\count328
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
-\c@tabx@nest=\count352
-\c@listtotal=\count353
-\c@listcount=\count354
-\c@liststart=\count355
-\c@liststop=\count356
-\c@citecount=\count357
-\c@citetotal=\count358
-\c@multicitecount=\count359
-\c@multicitetotal=\count360
-\c@instcount=\count361
-\c@maxnames=\count362
-\c@minnames=\count363
-\c@maxitems=\count364
-\c@minitems=\count365
-\c@citecounter=\count366
-\c@maxcitecounter=\count367
-\c@savedcitecounter=\count368
-\c@uniquelist=\count369
-\c@uniquename=\count370
-\c@refsection=\count371
-\c@refsegment=\count372
-\c@maxextratitle=\count373
-\c@maxextratitleyear=\count374
-\c@maxextraname=\count375
-\c@maxextradate=\count376
-\c@maxextraalpha=\count377
-\c@abbrvpenalty=\count378
-\c@highnamepenalty=\count379
-\c@lownamepenalty=\count380
-\c@maxparens=\count381
-\c@parenlevel=\count382
-\blx@tempcnta=\count383
-\blx@tempcntb=\count384
-\blx@tempcntc=\count385
-\c@blx@maxsection=\count386
-\blx@maxsegment@0=\count387
-\blx@notetype=\count388
-\blx@parenlevel@text=\count389
-\blx@parenlevel@foot=\count390
-\blx@sectionciteorder@0=\count391
-\blx@sectionciteorderinternal@0=\count392
-\blx@entrysetcounter=\count393
-\blx@biblioinstance=\count394
-\labelnumberwidth=\skip79
-\labelalphawidth=\skip80
-\biblabelsep=\skip81
-\bibitemsep=\skip82
-\bibnamesep=\skip83
-\bibinitsep=\skip84
-\bibparsep=\skip85
-\bibhang=\skip86
+\c@tabx@nest=\count329
+\c@listtotal=\count330
+\c@listcount=\count331
+\c@liststart=\count332
+\c@liststop=\count333
+\c@citecount=\count334
+\c@citetotal=\count335
+\c@multicitecount=\count336
+\c@multicitetotal=\count337
+\c@instcount=\count338
+\c@maxnames=\count339
+\c@minnames=\count340
+\c@maxitems=\count341
+\c@minitems=\count342
+\c@citecounter=\count343
+\c@maxcitecounter=\count344
+\c@savedcitecounter=\count345
+\c@uniquelist=\count346
+\c@uniquename=\count347
+\c@refsection=\count348
+\c@refsegment=\count349
+\c@maxextratitle=\count350
+\c@maxextratitleyear=\count351
+\c@maxextraname=\count352
+\c@maxextradate=\count353
+\c@maxextraalpha=\count354
+\c@abbrvpenalty=\count355
+\c@highnamepenalty=\count356
+\c@lownamepenalty=\count357
+\c@maxparens=\count358
+\c@parenlevel=\count359
+\blx@tempcnta=\count360
+\blx@tempcntb=\count361
+\blx@tempcntc=\count362
+\c@blx@maxsection=\count363
+\blx@maxsegment@0=\count364
+\blx@notetype=\count365
+\blx@parenlevel@text=\count366
+\blx@parenlevel@foot=\count367
+\blx@sectionciteorder@0=\count368
+\blx@sectionciteorderinternal@0=\count369
+\blx@entrysetcounter=\count370
+\blx@biblioinstance=\count371
+\labelnumberwidth=\skip71
+\labelalphawidth=\skip72
+\biblabelsep=\skip73
+\bibitemsep=\skip74
+\bibnamesep=\skip75
+\bibinitsep=\skip76
+\bibparsep=\skip77
+\bibhang=\skip78
 \blx@bcfin=\read3
 \blx@bcfout=\write4
 \blx@langwohyphens=\language79
-\c@mincomprange=\count395
-\c@maxcomprange=\count396
-\c@mincompwidth=\count397
+\c@mincomprange=\count372
+\c@maxcomprange=\count373
+\c@mincompwidth=\count374
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -731,93 +651,88 @@ Package biblatex Info: Trying to load biblatex bibstyle data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count398
-\c@savedafterword=\count399
-\c@annotator=\count400
-\c@savedannotator=\count401
-\c@author=\count402
-\c@savedauthor=\count403
-\c@bookauthor=\count404
-\c@savedbookauthor=\count405
-\c@commentator=\count406
-\c@savedcommentator=\count407
-\c@editor=\count408
-\c@savededitor=\count409
-\c@editora=\count410
-\c@savededitora=\count411
-\c@editorb=\count412
-\c@savededitorb=\count413
-\c@editorc=\count414
-\c@savededitorc=\count415
-\c@foreword=\count416
-\c@savedforeword=\count417
-\c@holder=\count418
-\c@savedholder=\count419
-\c@introduction=\count420
-\c@savedintroduction=\count421
-\c@namea=\count422
-\c@savednamea=\count423
-\c@nameb=\count424
-\c@savednameb=\count425
-\c@namec=\count426
-\c@savednamec=\count427
-\c@translator=\count428
-\c@savedtranslator=\count429
-\c@shortauthor=\count430
-\c@savedshortauthor=\count431
-\c@shorteditor=\count432
-\c@savedshorteditor=\count433
-\c@labelname=\count434
-\c@savedlabelname=\count435
-\c@institution=\count436
-\c@savedinstitution=\count437
-\c@lista=\count438
-\c@savedlista=\count439
-\c@listb=\count440
-\c@savedlistb=\count441
-\c@listc=\count442
-\c@savedlistc=\count443
-\c@listd=\count444
-\c@savedlistd=\count445
-\c@liste=\count446
-\c@savedliste=\count447
-\c@listf=\count448
-\c@savedlistf=\count449
-\c@location=\count450
-\c@savedlocation=\count451
-\c@organization=\count452
-\c@savedorganization=\count453
-\c@origlocation=\count454
-\c@savedoriglocation=\count455
-\c@origpublisher=\count456
-\c@savedorigpublisher=\count457
-\c@publisher=\count458
-\c@savedpublisher=\count459
-\c@language=\count460
-\c@savedlanguage=\count461
-\c@origlanguage=\count462
-\c@savedoriglanguage=\count463
-\c@pageref=\count464
-\c@savedpageref=\count465
-\shorthandwidth=\skip87
-\shortjournalwidth=\skip88
-\shortserieswidth=\skip89
-\shorttitlewidth=\skip90
-\shortauthorwidth=\skip91
-\shorteditorwidth=\skip92
-\locallabelnumberwidth=\skip93
-\locallabelalphawidth=\skip94
-\localshorthandwidth=\skip95
-\localshortjournalwidth=\skip96
-\localshortserieswidth=\skip97
-\localshorttitlewidth=\skip98
-\localshortauthorwidth=\skip99
-\localshorteditorwidth=\skip100
-Package biblatex Info: Trying to load enhanced support for Unicode engines...
-Package biblatex Info: ... file 'blx-unicode.def' found.
-
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-unicode.def
-)
+\c@afterword=\count375
+\c@savedafterword=\count376
+\c@annotator=\count377
+\c@savedannotator=\count378
+\c@author=\count379
+\c@savedauthor=\count380
+\c@bookauthor=\count381
+\c@savedbookauthor=\count382
+\c@commentator=\count383
+\c@savedcommentator=\count384
+\c@editor=\count385
+\c@savededitor=\count386
+\c@editora=\count387
+\c@savededitora=\count388
+\c@editorb=\count389
+\c@savededitorb=\count390
+\c@editorc=\count391
+\c@savededitorc=\count392
+\c@foreword=\count393
+\c@savedforeword=\count394
+\c@holder=\count395
+\c@savedholder=\count396
+\c@introduction=\count397
+\c@savedintroduction=\count398
+\c@namea=\count399
+\c@savednamea=\count400
+\c@nameb=\count401
+\c@savednameb=\count402
+\c@namec=\count403
+\c@savednamec=\count404
+\c@translator=\count405
+\c@savedtranslator=\count406
+\c@shortauthor=\count407
+\c@savedshortauthor=\count408
+\c@shorteditor=\count409
+\c@savedshorteditor=\count410
+\c@labelname=\count411
+\c@savedlabelname=\count412
+\c@institution=\count413
+\c@savedinstitution=\count414
+\c@lista=\count415
+\c@savedlista=\count416
+\c@listb=\count417
+\c@savedlistb=\count418
+\c@listc=\count419
+\c@savedlistc=\count420
+\c@listd=\count421
+\c@savedlistd=\count422
+\c@liste=\count423
+\c@savedliste=\count424
+\c@listf=\count425
+\c@savedlistf=\count426
+\c@location=\count427
+\c@savedlocation=\count428
+\c@organization=\count429
+\c@savedorganization=\count430
+\c@origlocation=\count431
+\c@savedoriglocation=\count432
+\c@origpublisher=\count433
+\c@savedorigpublisher=\count434
+\c@publisher=\count435
+\c@savedpublisher=\count436
+\c@language=\count437
+\c@savedlanguage=\count438
+\c@origlanguage=\count439
+\c@savedoriglanguage=\count440
+\c@pageref=\count441
+\c@savedpageref=\count442
+\shorthandwidth=\skip79
+\shortjournalwidth=\skip80
+\shortserieswidth=\skip81
+\shorttitlewidth=\skip82
+\shortauthorwidth=\skip83
+\shorteditorwidth=\skip84
+\locallabelnumberwidth=\skip85
+\locallabelalphawidth=\skip86
+\localshorthandwidth=\skip87
+\localshortjournalwidth=\skip88
+\localshortserieswidth=\skip89
+\localshorttitlewidth=\skip90
+\localshortauthorwidth=\skip91
+\localshorteditorwidth=\skip92
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -828,19 +743,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-\c@textcitecount=\count466
-\c@textcitetotal=\count467
-\c@textcitemaxnames=\count468
-\c@biburlbigbreakpenalty=\count469
-\c@biburlbreakpenalty=\count470
-\c@biburlnumpenalty=\count471
-\c@biburlucpenalty=\count472
-\c@biburllcpenalty=\count473
+\c@textcitecount=\count443
+\c@textcitetotal=\count444
+\c@textcitemaxnames=\count445
+\c@biburlbigbreakpenalty=\count446
+\c@biburlbreakpenalty=\count447
+\c@biburlnumpenalty=\count448
+\c@biburlucpenalty=\count449
+\c@biburllcpenalty=\count450
 \biburlbigskip=\muskip19
 \biburlnumskip=\muskip20
 \biburlucskip=\muskip21
 \biburllcskip=\muskip22
-\c@smartand=\count474
+\c@smartand=\count451
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -853,8 +768,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bb
 x
 File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count475
-\c@bbx:relatedtotal=\count476
+\c@bbx:relatedcount=\count452
+\c@bbx:relatedtotal=\count453
 ))
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
@@ -862,10 +777,10 @@ Package biblatex Info: ... file 'numeric-comp.cbx' found.
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-com
 p.cbx
 File: numeric-comp.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count477
-\c@cbx@tempcntb=\count478
-\c@cbx@tempcntc=\count479
-\c@cbx@tempcntd=\count480
+\c@cbx@tempcnta=\count454
+\c@cbx@tempcntb=\count455
+\c@cbx@tempcntc=\count456
+\c@cbx@tempcntd=\count457
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -884,8 +799,7 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
-Package biblatex Info: XeTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
 (biblatex)             2025-01-18 L3 programming layer (loader) 
@@ -898,52 +812,46 @@ Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 ))
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count481
-\c@@ppsavesec=\count482
-\c@@ppsaveapp=\count483
+\c@@pps=\count458
+\c@@ppsavesec=\count459
+\c@@ppsaveapp=\count460
 )
-\c@theorem=\count484
-\c@definition=\count485
-\c@conjecture=\count486
-\c@example=\count487
-\c@case=\count488
-\version=\toks31
-\institute=\toks32
+\c@theorem=\count461
+\c@definition=\count462
+\c@conjecture=\count463
+\c@example=\count464
+\c@case=\count465
+\version=\toks33
+\institute=\toks34
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count489
-\lst@gtempboxa=\box107
-\lst@token=\toks33
-\lst@length=\count490
-\lst@currlwidth=\dimen288
-\lst@column=\count491
-\lst@pos=\count492
-\lst@lostspace=\dimen289
-\lst@width=\dimen290
-\lst@newlines=\count493
-\lst@lineno=\count494
-\lst@maxwidth=\dimen291
+\lst@mode=\count466
+\lst@gtempboxa=\box103
+\lst@token=\toks35
+\lst@length=\count467
+\lst@currlwidth=\dimen269
+\lst@column=\count468
+\lst@pos=\count469
+\lst@lostspace=\dimen270
+\lst@width=\dimen271
+\lst@newlines=\count470
+\lst@lineno=\count471
+\lst@maxwidth=\dimen272
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
 File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
 )
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
-\c@lstnumber=\count495
-\lst@skipnumbers=\count496
-\lst@framebox=\box108
+\c@lstnumber=\count472
+\lst@skipnumbers=\count473
+\lst@framebox=\box104
 )
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2024/09/23 1.10c listings configuration
 ))
 Package: listings 2024/09/23 1.10c (Carsten Heinz)
 
-(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/xelatex/xecjk\xeCJK-listings.s
-ty
-Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
-\l__xeCJK_listings_max_char_int=\count497
-\l__xeCJK_listings_flag_int=\count498
-)
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
@@ -976,60 +884,66 @@ File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 ))
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
-\col@sep=\dimen292
-\ar@mcellbox=\box109
-\extrarowheight=\dimen293
-\NC@list=\toks34
-\extratabsurround=\skip101
-\backup@length=\skip102
-\ar@cellbox=\box110
+\col@sep=\dimen273
+\ar@mcellbox=\box105
+\extrarowheight=\dimen274
+\NC@list=\toks36
+\extratabsurround=\skip93
+\backup@length=\skip94
+\ar@cellbox=\box106
 )
-\@quotelevel=\count499
-\@quotereset=\count500
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
+e 15.
 
-(elegantpaper-cn.aux)
-\openout1 = `elegantpaper-cn.aux'.
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2021/05/24 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 15.
+\@quotelevel=\count474
+\@quotereset=\count475
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-Package hyperref Info: Link coloring ON on input line 13.
- (elegantpaper-cn.out) (elegantpaper-cn.out)
+(elegantpaper-en.aux)
+\openout1 = `elegantpaper-en.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+Package hyperref Info: Link coloring ON on input line 15.
+ (elegantpaper-en.out) (elegantpaper-en.out)
 \@outlinefile=\write5
-\openout5 = `elegantpaper-cn.out'.
+\openout5 = `elegantpaper-en.out'.
 
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: xetex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: xetex
-* paper: a4paper
+* driver: pdftex
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=452.9679pt
-* \textheight=700.50687pt
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
 * \topmargin=0.0pt
@@ -1037,7 +951,7 @@ Package hyperref Info: Link coloring ON on input line 13.
 * \headsep=5.0pt
 * \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
+* \marginparwidth=59.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.0pt plus 4.0pt minus 2.0pt
@@ -1050,39 +964,63 @@ Package hyperref Info: Link coloring ON on input line 13.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count476
+\scratchdimen=\dimen275
+\scratchbox=\box107
+\nofMPsegments=\count477
+\nofMParguments=\count478
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count479
+\MPscratchDim=\dimen276
+\MPnumerator=\count480
+\makeMPintoPDFobject=\count481
+\everyMPtoPDFconversion=\toks38
+)
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\c@mv@tabular=\count482
+\c@mv@boldtabular=\count483
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
-Package biblatex Info: XeTeX detected.
-(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `elegantpaper-cn.bcf'.
+\openout4 = `elegantpaper-en.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'elegantpaper-cn.bbl' found.
- (elegantpaper-cn.bbl
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 85.
-)
-Package biblatex Info: Reference section=0 on input line 13.
-Package biblatex Info: Reference segment=0 on input line 13.
+Package biblatex Info: ... file 'elegantpaper-en.bbl' not found.
 
+No file elegantpaper-en.bbl.
+Package biblatex Info: Reference section=0 on input line 15.
+Package biblatex Info: Reference segment=0 on input line 15.
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
 Package: footmisc 2025/05/09 v7.0b a miscellany of footnote facilities
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc-2022-0
 2-14.sty
 Package: footmisc 2024/12/24 v6.0g a miscellany of footnote facilities
-\FN@temptoken=\toks35
-\footnotemargin=\dimen294
-\@outputbox@depth=\dimen295
+\FN@temptoken=\toks39
+\footnotemargin=\dimen277
+\@outputbox@depth=\dimen278
 Package footmisc Info: Declaring symbol style bringhurst on input line 699.
 Package footmisc Info: Declaring symbol style chicago on input line 707.
 Package footmisc Info: Declaring symbol style wiley on input line 716.
@@ -1092,82 +1030,138 @@ Package footmisc Info: Declaring symbol style lamport* on input line 747.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 768
 .
 ))
-\c@lstlisting=\count501
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 15.
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 15.
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 15.
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 15.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+\c@lstlisting=\count484
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 17.28pt on input line 17.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 17.28pt on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
 
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
 
 
 (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 17.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 17.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 17.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 17.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 17.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 19.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
+9.
 
-LaTeX Warning: No \author given.
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 19.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 19.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 6.29996pt on input line 20.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.0pt on input line 21.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 25.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 25.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.95pt on input line 29.
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
+29.
 
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 17.
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 17.
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
-(Font)              scaled to size 10.95pt on input line 22.
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 24.
-
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmtt.fd
+File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 
 [1
 
-]
-Missing character: There is no ⁺ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=dflt;mapping=tex-text;!
+{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Dell/
+AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{C:/Users/D
+ell/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/Dell/Ap
+pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc}]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 65.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.0pt on input line 65.
+
+
+LaTeX Warning: Citation 'en1' on page 2 undefined on input line 76.
+
+
+LaTeX Warning: Citation 'en3' on page 2 undefined on input line 76.
+
+
+LaTeX Warning: Citation 'en2' on page 2 undefined on input line 76.
+
 
 
 [2]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.95pt on input line 106.
+
 
 [3]
 
-[4]
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 66.
-LaTeX Font Info:    Font shape `TU/texgyretermes(0)/m/sc' will be
-(Font)              scaled to size 9.0pt on input line 66.
+LaTeX Warning: Empty bibliography on input line 148.
 
 
-[5]
 
-[6]
-
-[7]
-
-[8] (elegantpaper-cn.aux)
+[4] (elegantpaper-en.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2022/08/05>
+L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `elegantpaper-cn.out' has not changed.
-(rerunfilecheck)             Checksum: EA2A42DB4397D0F846E84C85DBF2DB49;1659.
-Package logreq Info: Writing requests to 'elegantpaper-cn.run.xml'.
-\openout1 = `elegantpaper-cn.run.xml'.
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `elegantpaper-en.out' has not changed.
+(rerunfilecheck)             Checksum: 685D2F50F0E6719D576F0F73DDFD225E;1237.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                elegantpaper-en
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'elegantpaper-en.run.xml'.
+\openout1 = `elegantpaper-en.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27801 strings out of 408640
- 568218 string characters out of 5745005
- 1471205 words of memory out of 5000000
- 50497 multiletter control sequences out of 15000+600000
- 568589 words of font info for 121 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 94i,6n,127p,919b,4976s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 25928 strings out of 473523
+ 441566 string characters out of 5715114
+ 1350288 words of memory out of 5000000
+ 48743 multiletter control sequences out of 15000+600000
+ 602349 words of font info for 131 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 95i,8n,136p,706b,2300s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mex10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi6.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dell/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Dell/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTe
+X/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Dell/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/Dell/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/Dell/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on elegantpaper-en.pdf (4 pages, 235171 bytes).
+PDF statistics:
+ 186 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on elegantpaper-cn.pdf (8 pages).

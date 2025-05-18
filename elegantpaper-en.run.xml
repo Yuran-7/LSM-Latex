@@ -41,17 +41,16 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>elegantpaper-cn.bcf</file>
+      <file>elegantpaper-en.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>elegantpaper-cn.bbl</file>
+      <file>elegantpaper-en.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
-      <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
@@ -61,23 +60,23 @@
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>elegantpaper-cn</infile>
+      <infile>elegantpaper-en</infile>
     </cmdline>
     <input>
-      <file>elegantpaper-cn.bcf</file>
+      <file>elegantpaper-en.bcf</file>
     </input>
     <output>
-      <file>elegantpaper-cn.bbl</file>
+      <file>elegantpaper-en.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>elegantpaper-cn.bbl</file>
+      <file>elegantpaper-en.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>elegantpaper-cn.bcf</file>
+      <file>elegantpaper-en.bcf</file>
     </requires>
     <requires type="editable">
       <file>reference.bib</file>

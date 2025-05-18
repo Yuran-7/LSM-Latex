@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: elegantpaper-cn.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: biblatex.bst
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+I couldn't open database file ref.bib
+---line 5 of file elegantpaper-cn.aux
+ : \bibdata{elegantpaper-cn-blx,reference,ref
+ :                                           }
+I'm skipping whatever remains of this command
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: elegantpaper-cn-blx.bib
+Database file #2: reference.bib
+Biblatex version: 3.20
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+You've used 29 entries,
+            6402 wiz_defined-function locations,
+            1442 strings with 19713 characters,
+and the built_in function-call counts, 425384 in all, are:
+= -- 39073
+> -- 3572
+< -- 841
++ -- 15778
+- -- 1505
+* -- 30032
+:= -- 56135
+add.period$ -- 0
+call.type$ -- 29
+change.case$ -- 451
+chr.to.int$ -- 42
+cite$ -- 56
+duplicate$ -- 48456
+empty$ -- 33452
+format.name$ -- 3003
+if$ -- 80185
+int.to.chr$ -- 0
+int.to.str$ -- 91
+missing$ -- 0
+newline$ -- 1818
+num.names$ -- 1410
+pop$ -- 12625
+preamble$ -- 1
+purify$ -- 791
+quote$ -- 0
+skip$ -- 5357
+stack$ -- 0
+substring$ -- 73297
+swap$ -- 6248
+text.length$ -- 875
+text.prefix$ -- 28
+top$ -- 1
+type$ -- 974
+warning$ -- 0
+while$ -- 7468
+width$ -- 0
+write$ -- 1790
+(There was 1 error message)
